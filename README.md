@@ -159,7 +159,8 @@ modelo_regressao_empresas.pkl
 
 Projeto desenvolvido como **Trabalho Final (TAD)** para fins acadêmicos.
 
-**Autor:** Moisés José do Nascimento
+**Autor 1:** Moisés José do Nascimento 
+**Autor 2:** Mateus Samuel de Oliveira Félix
 
 ---
 
