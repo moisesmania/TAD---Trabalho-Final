@@ -155,7 +155,7 @@ modelo_regressao_empresas.pkl
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Autor(es):
 
 Projeto desenvolvido como **Trabalho Final (TAD)** para fins acadêmicos.
 
